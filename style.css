@@ -1,0 +1,29 @@
+.wrap {
+	width: 100%;
+	overflow: hidden;
+}
+
+.each-post {
+	width: 100%;
+	overflow: hidden;
+	clear: both;
+	margin-bottom: 20px;
+}
+
+.each-post h1 {
+	display: block;
+	padding: 20px;
+}
+
+.each-post .thumb {
+	width: 100%;
+	max-height: 300px;
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+
+.each-post p {
+	font-size: 1em;
+	padding: 20px;
+	color: #CCC;
+}
